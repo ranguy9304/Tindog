@@ -2,6 +2,7 @@ body{
     font-family: "Montserrat:wght@300";
 }
 #title{
+    height: 700px;
     background-color:#ff4c68 ;
 }
 .navbar-brand a{
@@ -92,3 +93,102 @@ body{
     
 }
 
+#testimonials{
+    padding:7% 15%;
+    text-align: center;
+    background-color:#ef8178 ;
+    color: white;
+
+}
+#testimonials h2{
+    font-family:'Montserrat', sans-serif ;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+
+}
+
+#press{
+
+    background-color: #ef8178;
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+
+.press-logo{
+    width: 15%;
+    margin:20px 20px 50px;
+
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+#btn{
+    background-color: #ef8178;
+}
+
+#pricing h2{
+    font-weight: bold;
+    font-size: 4rem;
+}
+
+#features{
+    position: relative;
+    background-color: white;
+    z-index: 1;
+}
+.title-image{
+    position: relative;
+    z-index: 0;
+    top: 100px;
+    left: 20px;
+}
+#cta{
+    height: 300px;
+    background-color: tomato;
+    padding:7% 15%;
+    
+
+}
+#cta h3{ font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    line-height: 1.4;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+
+    
+}
+#button{
+    position: relative;
+    left: 300px;
+}
+#button1{
+    position: relative;
+    left: 300px;
+}
+
+#footer{
+  
+    padding: 3% 15%;
+
+}
+#footer p{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    line-height: 1.4;
+    font-weight: bold;
+}
